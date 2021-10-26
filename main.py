@@ -22,7 +22,6 @@ from torch.utils.data import TensorDataset
 from torch.utils.data import DataLoader
 from itertools import cycle
 from models import *
-from center_loss import CenterLoss
 from options.train_options import TrainOptions
 from cyclegan_train import cycleGAN
 from loss.center_loss import CenterLoss
