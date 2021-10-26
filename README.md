@@ -1,3 +1,3 @@
 # CCL
-[Pytorch] Code for MICCAI2021 #204
+[Pytorch] Code for MICCAI 2021 #204
  
